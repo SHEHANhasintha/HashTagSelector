@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Hashtag selector",
+  "version": "1.0",
+
+  "description": "Scrap all the Main contents from websites and convert them to hash tags",
+
+  "icons": {
+    "48": "icons/toolbar-icon48.png",
+    "128": "icons/toolbar-icon128.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/toolbar-icon48.png",
+    "default_title": "Hashtag selector",
+    "default_popup": "popup/toolbar-menu.html"
+  }
+}
