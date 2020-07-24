@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # hash-tag-selector 
 A browser extension that allows you to create hash-tags quickly based on contents in a webpage. Especially from website that are used to post articles and blog posts.This Extension specially helps social media marketers to gain their productivity.Hash-tag-selector allows you to fast forward sharing your article/ blog post by genetaing hashtags for you based on contents of the webpage. There fore you don't have to consume time thinking of various hashtags. Hence your limited time will be saved as well as the effort that have to be taken inorder to create hashtags.
 
