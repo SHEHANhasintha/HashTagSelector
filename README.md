@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Study Mode: YouTube 
 A browser extension that allows you to focus and study during your video browsing session by removing all distractions from YouTube - homepage
 videos, the notification badge, autoplay, sidebar recommended videos, displayed comments, and the wall of suggested videos that appears once a video ends.
@@ -64,3 +65,7 @@ activeTab: The activeTab permission gives an extension temporary access to the c
 activeTab is used in order to apply changes to the current tab of YouTube.
 
 localStorage is also used in this extension and is used to store the options you have selected in the extension for future access - both in new tabs, and in new windows. Access and retrieval of only these customization options are used.
+=======
+# HashTagSelector
+It's a chrome extention. its a hash tag selector that scraps headers and generate hashtags from websites. #chromeExtension #hashTags #headerScrapter #contentGenerator #hashTagGenerator
+
